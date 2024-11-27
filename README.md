@@ -1,1 +1,1 @@
-Hi, my name is Jonathan and I recently completed my PhD at Harvard University focusing on semi-competing risks, clinical trials, and survival analysis. Currently, I am working as a biostatistician concentrating on clinical trial design.
+Hi, my name is Jonathan and I recently completed my PhD at Harvard University focusing on competing risks, clinical trials, and survival analysis. Currently, I am working as a biostatistician concentrating on clinical trial design.
